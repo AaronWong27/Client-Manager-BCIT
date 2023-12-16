@@ -1,0 +1,12 @@
+D:\BCIT\COMP 3602\BusinessLib\obj\Debug\net7.0\BusinessLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCIT\COMP 3602\BusinessLib\obj\Debug\net7.0\BusinessLib.AssemblyInfoInputs.cache
+D:\BCIT\COMP 3602\BusinessLib\obj\Debug\net7.0\BusinessLib.AssemblyInfo.cs
+D:\BCIT\COMP 3602\BusinessLib\obj\Debug\net7.0\BusinessLib.csproj.CoreCompileInputs.cache
+D:\BCIT\COMP 3602\BusinessLib\obj\Debug\net7.0\BusinessLib.csproj.AssemblyReference.cache
+D:\BCIT\COMP 3602\BusinessLib\bin\Debug\net7.0\BusinessLib.deps.json
+D:\BCIT\COMP 3602\BusinessLib\bin\Debug\net7.0\BusinessLib.dll
+D:\BCIT\COMP 3602\BusinessLib\bin\Debug\net7.0\BusinessLib.pdb
+D:\BCIT\COMP 3602\BusinessLib\obj\Debug\net7.0\BusinessLib.dll
+D:\BCIT\COMP 3602\BusinessLib\obj\Debug\net7.0\refint\BusinessLib.dll
+D:\BCIT\COMP 3602\BusinessLib\obj\Debug\net7.0\BusinessLib.pdb
+D:\BCIT\COMP 3602\BusinessLib\obj\Debug\net7.0\ref\BusinessLib.dll
